@@ -1,0 +1,43 @@
+.page-title {
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  color: black;
+  background-color: #998F66;
+}
+
+  .page-title h1 {
+      padding-top: 11px;
+  }
+
+.animal-lbl {
+  margin-top: 50px;
+  margin-right: 20px;
+  display: inline-block;
+}
+
+.btn-animal {
+  margin-top: 10px;
+}
+
+.animal-topic {
+  margin-top: 15px;
+  margin-left: 15px;
+  background: #00ff00;
+  border: 2px solid black;
+  color: black;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+#animal_gif {
+  display: inline-block;
+}
+
+.gif-style {
+  display: inline-block;
+  width: auto;
+  padding: 0px;
+  margin-top: 20px;
+  border: 2px solid black;
+}
